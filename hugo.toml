@@ -1,0 +1,7 @@
+baseURL = 'https://meegada.in/'
+languageCode = 'en-us'
+title = 'Dr. Reegada RamalingaSwamy'
+theme = 'relearn'
+
+[params]
+  themeVariant = [ "meegada", "blue","red", "zen-dark", "relearn-light", "relearn-dark" ]
