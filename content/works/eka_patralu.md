@@ -5,4 +5,4 @@ draft: false
 weight: 11
 ---
 
-![eka_patralu](/meegada.in/images/works/eka_patralu.jpg)
+![eka_patralu](/images/works/eka_patralu.jpg)

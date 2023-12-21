@@ -4,7 +4,7 @@ date: 2023-11-24T03:38:23-08:00
 draft: false
 ---
 
-![meegada](/meegada.in/images/meegada-1.jpeg)
+![meegada](/images/meegada-1.jpeg)
 
 
 **KalaRatna**  Dr Meegada is a famous actor in Poetic Drama in Telugu which is a unique form of theatre art. He is having wide experience of about 47 years in the field as an Artiste, Director, Producer, Singer, Music Director, Harmonist, Playwright, Make-up Artiste, Orator and Critic.
