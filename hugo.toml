@@ -1,5 +1,5 @@
-#baseURL = 'http://www.meegada.in/'
-baseURL= 'https://kolluruss.github.io/'
+baseURL = 'http://www.meegada.in/'
+#baseURL= 'https://kolluruss.github.io/'
 languageCode = 'en-us'
 title = 'Dr. Meegada RamalingaSwamy'
 theme = 'relearn'
