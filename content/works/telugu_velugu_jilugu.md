@@ -5,6 +5,6 @@ draft: false
 weight: 10
 ---
 
-![telugu_velugu](/images/works/telugu_velugu_jilugu_2.jpg)
+![telugu_velugu](/meegada.in/images/works/telugu_velugu_jilugu_2.jpg)
 
-![telugu_velugu](/images/works/telugu_velugu_jilugu.png)
+![telugu_velugu](/meegada.in/images/works/telugu_velugu_jilugu.png)

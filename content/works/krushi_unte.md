@@ -5,4 +5,4 @@ draft: false
 weight: 12
 ---
 
-![krushi_unte](/images/works/krushi_unte.jpg)
+![krushi_unte](/meegada.in/images/works/krushi_unte.jpg)

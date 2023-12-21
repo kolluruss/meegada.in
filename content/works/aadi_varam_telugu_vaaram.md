@@ -5,4 +5,4 @@ draft: false
 weight: 15
 ---
 
-![ఆదివారం](/images/works/aadi_varam_telugu_vaaram.jpg)
+![ఆదివారం](/meegada.in/images/works/aadi_varam_telugu_vaaram.jpg)

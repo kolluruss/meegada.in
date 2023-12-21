@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-![meegada](/images/meegada-2.png)
+![meegada](/meegada.in/images/meegada-2.png)
 
 
 
