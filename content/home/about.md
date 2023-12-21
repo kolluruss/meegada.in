@@ -5,6 +5,6 @@ draft: false
 weight: 2
 ---
 
-This site is dedicated to complete works of [**"Dr Meegada"** Dr. Meegada RamalingaSwamy](../meedaga)
+This site is dedicated to complete works of [**"Dr Meegada"** Dr. Meegada RamalingaSwamy](../meegada)
 
 Please send the comments/clarifications to meegada18@gmail.com
