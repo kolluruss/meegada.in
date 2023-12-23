@@ -7,5 +7,6 @@ weight: 5
 
 ## Krishna
 
+![meegada](/images/works/meegada_krishna_1.png?classes=inline)
+![meegada](/images/meegada_krishna_2.jpeg?classes=inline)
 
-![meegada](/images/meegada_krishna_2.jpeg?classes=border,inline)
