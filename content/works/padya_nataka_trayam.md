@@ -5,3 +5,4 @@ draft: false
 weight: 40
 ---
 
+![padya_nataka_tryam](/images/works/padya_naataka_tryam.jpg)
