@@ -10,11 +10,20 @@
 
 body {
     color: var(--MAIN-TEXT-color) !important;
+
 }
+
 
 textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
     border-color: none;
     box-shadow: none;
+}
+
+h1 {
+  font-size: 250%;
+  font-family: Ponnala;
+  color: #fd4727;  width: 100%; 
+  text-align: center;         
 }
 
 h2, h3, h4, h5 {
@@ -179,7 +188,7 @@ div.notices.info p {
     src: url(/fonts/dhurjati.ttf);
 }
 
-div.shloka {
+.shloka {
     background-color: lightgrey;
     border: 5px solid green;
     padding: 50px;
@@ -189,7 +198,7 @@ div.shloka {
     font-family: Gidugu;
   }
 
-  .shloka_imp {
+.shloka_imp {
     background-color: lightgrey;
     border: 5px solid red;
     padding: 50px;
@@ -202,22 +211,31 @@ div.shloka {
   .shloka_quote {
     color: #e427fd;
   }
-  div.shloka_second {
+  
+  .shloka_second {
     color: #272bfd;
   }
 
-  div.title {
+  .title {
     font-size: 250%;
     font-family: Ponnala;
     color: #fd4727;
     width: 100%; 
-    text-align: center;       
-    padding: 50px;
-    margin: 20px;
+    text-align: center; 
   }
 
+  .title_normal {
+    font-size: 150%;
+    font-family: Ponnala;
+    width: 100%; 
+    text-align: left;
 
-  div.quote {
+    margin: 20px;
+  }
+  
+
+
+  .quote {
     font-size: 100%;
     color:  #fd3527;
     font-family: Gidugu;
@@ -225,7 +243,7 @@ div.shloka {
     width: 100%;   
   }
 
-  div.tatparya {
+  .tatparya {
     background-color: lightgrey;
     border: 5px solid rgb(211, 180, 170);
     padding: 50px;
@@ -234,7 +252,7 @@ div.shloka {
     font-size: 150%;
     font-family: Gidugu;
   }
-  div.essay {
+  .essay {
     background-color: lightgrey;
     border: 5px solid rgb(211, 180, 170);
     padding: 50px;
@@ -250,8 +268,8 @@ div.shloka {
 }
 
 
-div.tel_parayana {
-  font-size: 200%;
+.tel_parayana {
+  font-size: 100%;
   font-family: Gidugu;
 }
 

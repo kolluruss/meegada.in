@@ -11,3 +11,8 @@ theme = 'relearn'
   home = ["HTML", "RSS", "PRINT", "SEARCH"]
   section = ["HTML", "RSS", "PRINT"]
   page = ["HTML", "RSS", "PRINT"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
