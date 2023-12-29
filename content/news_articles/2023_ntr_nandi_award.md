@@ -5,4 +5,9 @@ draft: false
 weight: 2
 ---
 
-![Alt text](/images/news_articles/2023_ntr_nandi_award.png)
+### The Hindu - Vishakhapatnam regional edition 23-12-2023
+![the_hindu_23_12_2023](/images/news_articles/2023_ntr_nandi_award.png)
+
+
+### The HansIndia 27-12-2023
+![the_hans_india_27_12_2023](/images/news_articles/the_hans_india_27_12_2023.jpeg)

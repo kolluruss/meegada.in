@@ -14,3 +14,8 @@ Union minster : shri దాసరి నారాయణరావు
 
 ![cm_of_ap](/images/felicitations/ysr_2004_1.png)
 
+
+## Chief Minister: Y.S.rajashekhara Reddy awarding the best teacher award in 2006
+
+![cm_of_ap](/images/felicitations/ysr_2006.png)
+
