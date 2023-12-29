@@ -50,3 +50,5 @@ literature and culture.
 - "SWARNA PUSHPABHISHEKAM" in 2000
 - "SWARNA MAKARA KUNDALAALU" in 2004
 - "SWARANA KANKANAM" in 2006
+
+![letter_head](/images/awards/puraskaaramulu.jpeg)
