@@ -11,3 +11,16 @@ weight: 2
 
 ### The HansIndia 27-12-2023
 ![the_hans_india_27_12_2023](/images/news_articles/the_hans_india_27_12_2023.jpeg)
+
+
+### Award
+
+![award_article](/images/news_articles/12-29-2023-NTR-Award_1.jpeg)
+
+![award_pic1](/images/felicitations/12-29-2023-NTR-Award_3.jpeg)
+
+
+![award_pic2](/images/felicitations/12-29-2023-NTR-Award_4.jpeg)
+
+
+![award_pic3](/images/felicitations/12-29-2023-NTR-Award_2.jpeg)
