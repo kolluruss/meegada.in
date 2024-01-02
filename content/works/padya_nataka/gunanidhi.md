@@ -5,4 +5,6 @@ draft: false
 weight: 12
 ---
 
+{{< youtubepl id="PLr3O7Hp_-cHxzTDJ9XMNxT8W6El-uJNIA" >}}
+
 ![గుణనిధి](/images/works/gunanidhi.jpg)
