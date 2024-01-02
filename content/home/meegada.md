@@ -37,7 +37,7 @@ literature and culture.
 
 ### Awards and achievements
 
-- 27 prestigious NANDI AWARDS (Awards given to distinguished performances of verse drama in Telugu) in various Nandi Festivals organized by the Government of Andhra Pradesh 
+- 28 prestigious NANDI AWARDS (Awards given to distinguished performances of verse drama in Telugu) in various Nandi Festivals organized by the Government of Andhra Pradesh 
 - 28 GARUDA AWARDS from Sri Venkateswara Naatya Kala Parishad, Tirupathi
 - "BEST TEACHER AWARD" of the Govt. of A.P. in 2005
 - "BEST LITERARY AWARD" by Telugu University in 2007
