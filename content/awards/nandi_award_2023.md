@@ -5,7 +5,13 @@ draft: false
 weight: 10
 ---
 
+
+
 {{< youtube id="Lx7USk7fLQ4" >}}
+
+## Declaration and Invitation by A.P. Government
+
+![invite_by_govt](/images/news_articles/invite_by_ap_govt_dec_2023.jpeg)
 
 
 ### The Hindu - Vishakhapatnam regional edition 23-12-2023
