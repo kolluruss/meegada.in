@@ -16,6 +16,7 @@ chapter: true
 - 2018 లోక్‌నాయక్ ఫౌండేషన్ పురస్కారం
 - [2023 లో నందమూరి తారక రామారావు రంగస్థల పురస్కారం](./nandi_award_2023) (ఆంధ్రప్రదేశ్ ప్రభుత్వ నంది నాటక పరిషత్తు - 2022)
 
+
 Here are some of his 80+ awards:
 
 
@@ -30,3 +31,12 @@ Here are some of his 80+ awards:
 | 7 | Ugadhi Puraskar| 1994 March 12 | Theater Arts | National | Madhya Pradesh Telugu Maha Sabhalu, MP Telugu Federation |
 | 8 | Madras Telugu Academy Puraskar| 1994 April 03 | Theater Arts, P.V. నరసింహారావు గారు | National | Madras Telugu Academy,Chennai |
 | 9 | SWARNA KIREETAM - Ugadhi Puraskar | 1995  May 02 | Theater Arts | State | Dr VS Krishna Govt. Degree College & Lalitha Ragini,VSP |
+
+![awards_2](/images/awards/awards_2.png)
+![awards_3](/images/awards/awards_3.png)
+![awards_4](/images/awards/awards_4.png)
+![awards_5](/images/awards/awards_5.png)
+![awards_6](/images/awards/awards_6.png)
+![awards_7](/images/awards/awards_7.png)
+
+
